@@ -1,0 +1,11 @@
+td {
+    display: table-cell;
+    vertical-align: inherit;
+    border-image: auto;
+}
+
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
